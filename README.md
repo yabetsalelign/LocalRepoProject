@@ -1,4 +1,4 @@
-# Project Name
+LocalRepoProject
 
 Hello there. welcome to my first git project.
 
